@@ -1,5 +1,5 @@
 +++
-title = "Incidental learning of trust: Examining the role of emotion and visuomotor fluency."
+title = "Incidental learning of trust: Examining the role of emotion and visuomotor fluency"
 
 # Date first published.
 date = "2016-03-31"
