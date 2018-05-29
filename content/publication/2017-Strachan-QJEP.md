@@ -1,5 +1,5 @@
 +++
-title = "Examining the durability of incidentally learned trust from gaze cues."
+title = "Examining the durability of incidentally learned trust from gaze cues"
 
 # Date first published.
 date = "2017-04-13"
