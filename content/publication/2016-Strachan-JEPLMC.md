@@ -31,6 +31,7 @@ selected = false
 # Links (optional).
 url_pdf = "https://www.apa.org/pubs/journals/features/xlm-xlm0000270.pdf"
 url_source = "http://psycnet.apa.org/journals/xlm/42/11/1759/"
+url_poster = "https://www.researchgate.net/publication/303023421_Effects_of_real_world_social_group_status_on_incidental_learning_of_trust"
 url_dataset = "https://osf.io/ybkax/"
 
 +++
