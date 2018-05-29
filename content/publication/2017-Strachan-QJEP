@@ -1,0 +1,35 @@
++++
+title = "Examining the durability of incidentally learned trust from gaze cues."
+
+# Date first published.
+date = "2017-04-13"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["**Strachan, J.W.A.**", "Tipper, S.P."]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "*Quarterly Journal of Experimental Psychology, 70*(10), 2060-2075"
+
+# Abstract and optional shortened version.
+abstract = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Links (optional).
+url_pdf = "https://www.researchgate.net/publication/305924812_Examining_the_durability_of_incidentally_learned_trust_from_gaze_cues"
+url_source = "http://www.tandfonline.com/doi/abs/10.1080/17470218.2016.1220609"
+url_dataset = "https://osf.io/gqcxq/"
+
++++
