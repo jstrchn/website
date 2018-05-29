@@ -1,0 +1,35 @@
++++
+title = "Incidental learning of trust: Examining the role of emotion and visuomotor fluency."
+
+# Date first published.
+date = "2016-03-31"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["**Strachan, J.W.A.**", "Kirkham, A.J.", "Manssuer, L.R.", "Tipper, S.P."]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "*Journal of Experimental Psychology: Learning, Memory & Cognition, 42*(11), 1759"
+
+# Abstract and optional shortened version.
+abstract = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Links (optional).
+url_pdf = "https://www.apa.org/pubs/journals/features/xlm-xlm0000270.pdf"
+url_source = "http://psycnet.apa.org/journals/xlm/42/11/1759/"
+url_dataset = "https://osf.io/ybkax/"
+
++++
