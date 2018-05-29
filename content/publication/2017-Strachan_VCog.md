@@ -31,6 +31,7 @@ selected = false
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/pdf/10.1080/13506285.2017.1338321?needAccess=true"
 url_source = "https://doi.org/10.1080/13506285.2017.1338321"
+url_poster = "https://www.researchgate.net/publication/303023421_Effects_of_real_world_social_group_status_on_incidental_learning_of_trust"
 url_dataset = "https://doi.org/10.17605/OSF.IO/P8Q7Z"
 
 +++
