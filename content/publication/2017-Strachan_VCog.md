@@ -1,5 +1,5 @@
 +++
-title = "Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness."
+title = "Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness"
 
 # Date first published.
 date = "2017-08-03"
