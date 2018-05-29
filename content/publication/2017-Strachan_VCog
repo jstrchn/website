@@ -1,0 +1,35 @@
++++
+title = "Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness."
+
+# Date first published.
+date = "2017-08-03"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["**Strachan, J.W.A.**", "Kirkham, A.J.", "Manssuer, L.R.", "Over, H.", "Tipper, S.P."]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "*Visual Cognition, 25*(7-8), 802-814"
+
+# Abstract and optional shortened version.
+abstract = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Links (optional).
+url_pdf = "https://www.tandfonline.com/doi/pdf/10.1080/13506285.2017.1338321?needAccess=true"
+url_source = "https://doi.org/10.1080/13506285.2017.1338321"
+url_dataset = "https://doi.org/10.17605/OSF.IO/P8Q7Z"
+
++++
