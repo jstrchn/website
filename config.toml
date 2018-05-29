@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "James W.A. Strachan"
-  role = "Postdoctoral Researcher in Joint Action and Social Cognition"
+  role = "Postdoctoral Researcher\\Joint Action and Social Cognition"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
