@@ -11,5 +11,6 @@ event = "Poster presented at the inaugural Interactive Eye Gaze workshop"
 event_url = "http://interactive-eye-gaze.weebly.com/"
 location = "UCL Institute of Education, London"
 
-url_poster = "/pdfs/posters/Strachan_Knoblich_Sebanz_IEG18_poster.pdf"
+url_pdf = "/pdfs/posters/Strachan_Knoblich_Sebanz_IEG18_poster.pdf"
+url_custom = [{name = "Program", url = "http://interactive-eye-gaze.weebly.com/programme.html"}]
 +++
