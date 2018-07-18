@@ -259,14 +259,14 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "CV"
+  url = "static/JStrachan_CV.pdf"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Projects"
@@ -276,12 +276,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
