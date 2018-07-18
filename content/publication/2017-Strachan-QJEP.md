@@ -29,7 +29,7 @@ abstract_short = "Incidental learning of trust from gaze cues can survive interf
 selected = false
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/publication/305924812_Examining_the_durability_of_incidentally_learned_trust_from_gaze_cues"
+url_pdf = "/pdfs/papers/QJEP_Manuscript.pdf"
 url_source = "http://www.tandfonline.com/doi/abs/10.1080/17470218.2016.1220609"
 url_dataset = "https://osf.io/gqcxq/"
 
