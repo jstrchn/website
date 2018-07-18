@@ -260,7 +260,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "static/JStrachan_CV.pdf"
+  url = "JStrachan_CV.pdf"
   weight = 2
 
 [[menu.main]]
