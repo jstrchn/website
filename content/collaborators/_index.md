@@ -13,22 +13,22 @@ Current Advisors:
 
 Collaborators:
 
-* [Steve Tipper, University of York](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/)
+* [Steve Tipper (University of York)](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/)
 
-* [Harriet Over, University of York](https://www.york.ac.uk/psychology/staff/academicstaff/ho543/)
+* [Harriet Over (University of York)](https://www.york.ac.uk/psychology/staff/academicstaff/ho543/)
 
-* [Scott Cairney, University of York](https://www.york.ac.uk/psychology/staff/academicstaff/scottc/)
+* [Scott Cairney (University of York)](https://www.york.ac.uk/psychology/staff/academicstaff/scottc/)
 
-* [Mathieu Charbonneau, CEU](https://cognitivescience.ceu.edu/people/mathieu-charbonneau)
+* [Mathieu Charbonneau (CEU)](https://cognitivescience.ceu.edu/people/mathieu-charbonneau)
 
-* [Merryn Constable, CEU](http://merryndconstable.com)
+* [Merryn Constable (CEU)](http://merryndconstable.com)
 
-* [Arianna Curioni, CEU](https://somby.ceu.edu/people/arianna-curioni)
+* [Arianna Curioni (CEU)](https://somby.ceu.edu/people/arianna-curioni)
 
-* [Tessa Flack, Durham University, University of Lincoln](https://www.dur.ac.uk/psychology/staff/?id=14698)
+* [Tessa Flack (Durham University, University of Lincoln)](https://www.dur.ac.uk/psychology/staff/?id=14698)
 
-* [Kay Ritchie, University of Lincoln](https://kayritchie87.wixsite.com/kayritchiepsychology)
+* [Kay Ritchie (University of Lincoln)](https://kayritchie87.wixsite.com/kayritchiepsychology)
 
-* [Dan Sperber, CEU](http://dan.sperber.fr)
+* [Dan Sperber (CEU)](http://dan.sperber.fr)
 
-* [Georgina Török, CEU](https://somby.ceu.edu/people/georgina-torok)
+* [Georgina Török (CEU)](https://somby.ceu.edu/people/georgina-torok)
