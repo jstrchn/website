@@ -26,7 +26,7 @@ abstract = "Eye gaze is a powerful directional cue that automatically evokes joi
 abstract_short = "Incidental trust learning from identity-contingent gaze cues is affected by emotion, does not extend to non-trust-related judgements, and cannot be explained solely by visuomotor fluency."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Links (optional).
 url_pdf = "https://www.apa.org/pubs/journals/features/xlm-xlm0000270.pdf"
