@@ -27,6 +27,8 @@ Collaborators:
 
 * [Tessa Flack (Durham University, University of Lincoln)](https://www.dur.ac.uk/psychology/staff/?id=14698)
 
+* [Ruth Mayo (Hebrew University of Jerusalem)](https://scholars.huji.ac.il/jbc/people/ruth-mayo)
+
 * [Kay Ritchie (University of Lincoln)](https://kayritchie87.wixsite.com/kayritchiepsychology)
 
 * [Dan Sperber (CEU)](http://dan.sperber.fr)
