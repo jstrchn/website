@@ -9,7 +9,7 @@ Current Advisors:
 
 * [Natalie Sebanz](https://somby.ceu.edu/people/natalie-sebanz)
 
-* [Gunther Knoblich](https://somby.ceu.edu/people/gunther-knoblich)
+* [Günther Knoblich](https://somby.ceu.edu/people/gunther-knoblich)
 
 Collaborators:
 
