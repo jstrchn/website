@@ -9,7 +9,7 @@ title = "Incidental Social Learning from Gaze Cues"
 summary = "Investigating how we make decisions about trustworthiness based on nonverbal gaze behaviour."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "headers/trust.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["gaze-cueing","trustworthiness"]
