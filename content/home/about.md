@@ -35,4 +35,6 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral researcher in the Social Mind and Body lab at the Central European University Department of Cognitive Science. My research interests are largely in social cognition with a particular focus on coordination in joint action.
+I am a postdoctoral researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu). My research broadly looks at social cognition and how thinking about other people affects our own decisions and actions. 
+
+Before joining the department at CEU, I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/), looking at incidental social learning from gaze cues.
