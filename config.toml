@@ -55,7 +55,9 @@ enableGitInfo = false
 
   # Your details.
   name = "James W.A. Strachan"
-  role = "Postdoctoral Researcher in Psychology"
+  role = "Postdoctoral Researcher in Psychology
+  
+  [{name = 'CV', url = 'JStrachan_CV.pdf'}]"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -234,10 +236,10 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://scholar.google.hu/citations?user=2n8uGucAAAAJ&hl=en&oi=ao"
 
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/James_Strachan2"
+  #[[params.social]]
+  #  icon = "researchgate"
+  #  icon_pack = "ai"
+  #  link = "https://www.researchgate.net/profile/James_Strachan2"
     
   [[params.social]]
     icon = "orcid"
@@ -277,11 +279,6 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 5
-
-[[menu.main]]
-  name = "CV"
-  url = "JStrachan_CV.pdf"
-  weight = 6
 
 # Taxonomies.
 [taxonomies]
