@@ -8,12 +8,12 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Social Cognition",
-    "Joint Action",
-    "Coordination"
-  ]
+#[interests]
+#  interests = [
+#    "Social Cognition",
+#    "Joint Action",
+#    "Coordination"
+#  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
