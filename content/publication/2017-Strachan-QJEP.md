@@ -26,7 +26,7 @@ abstract = "In everyday interactions we find our attention follows the eye gaze 
 abstract_short = "Incidental learning of trust from gaze cues can survive interference with task-relevant stimuli for up to one hour."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Links (optional).
 url_pdf = "http://journals.sagepub.com/doi/pdf/10.1080/17470218.2016.1220609"
