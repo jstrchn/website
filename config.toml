@@ -47,11 +47,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "James W.A. Strachan"
