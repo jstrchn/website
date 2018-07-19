@@ -36,6 +36,9 @@ We found that these judgements are specific to trust, are surprisingly long-last
 ------
 
 For papers on this projects, see:
+
 * Strachan, Kirkham, Manssuer & Tipper (2016): [Incidental learning of trust: Examining the role of emotion and visuomotor fluency.](publication/2016-strachan-jeplmc/)
+
 * Strachan & Tipper (2017): [Examining the durability of incidentally learned trust from gaze cues.](publication/2017-strachan-qjep/)
+
 * Strachan, Kirkham, Manssuer, Over & Tipper (2017): [Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness.](publication/2017-strachan-vcog/)
