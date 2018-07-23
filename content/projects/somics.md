@@ -13,7 +13,7 @@ summary = "Coordination, Communication and Cultural Transmission."
 image_preview = "headers/synergy.jpg"
 
 # Tags: can be used for filtering projects.
-tags = ["cognition","culture","comparative","developmental"]
+tags = ["cognition","culture","comparative","developmental","employed"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://cordis.europa.eu/project/rcn/192216_en.html"
