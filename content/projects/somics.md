@@ -4,7 +4,7 @@
 date = 2018-07-23T00:00:00
 
 # Project title.
-title = "Constructing Social Minds"
+title = "LINK: Constructing Social Minds"
 
 # Project summary to display on homepage.
 summary = "Coordination, Communication and Cultural Transmission."
