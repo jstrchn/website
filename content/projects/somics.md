@@ -1,28 +1,28 @@
 +++
 
-Date this page was created.
+# Date this page was created.
 date = 2018-07-23T00:00:00
 
-Project title.
+# Project title.
 title = "Constructing Social Minds"
 
-Project summary to display on homepage.
+# Project summary to display on homepage.
 summary = "Coordination, Communication and Cultural Transmission."
 
-Optional image to display on homepage (relative to static/img/ folder).
+# Optional image to display on homepage (relative to static/img/ folder).
 image_preview = "headers/synergy.jpg"
 
-Tags: can be used for filtering projects.
+# Tags: can be used for filtering projects.
 tags = ["cognition","culture","comparative","developmental"]
 
-Optional external URL for project (replaces project detail page).
+# Optional external URL for project (replaces project detail page).
 external_link = "https://cordis.europa.eu/project/rcn/192216_en.html"
 
-Does the project detail page use math formatting?
+# Does the project detail page use math formatting?
 math = false
 
-Optional featured image (relative to static/img/ folder).
-[header] image = "" caption = ""
+# Optional featured image (relative to static/img/ folder).
+# [header] image = "" caption = ""
 
 +++
 
