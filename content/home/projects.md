@@ -33,12 +33,12 @@ filter_default = 0
 #   tag = "*"
 #  
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
+#   name = "Personal Projects"
+#   tag = ".personal"
 #
 # [[filter]]
-#   name = "Other"
-#   tag = ".demo"
+#   name = "Employed Projects"
+#   tag = ".employed"
 
 +++
 
