@@ -4,7 +4,7 @@
 date = 2018-07-23T00:00:00
 
 # Project title.
-title = "Joint Action Expertise"
+title = "LINK: Joint Action Expertise"
 
 # Project summary to display on homepage
 summary = "Behavioural, cognitive, and neural mechanisms for joint action learning."
