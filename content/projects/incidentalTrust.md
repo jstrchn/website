@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/trust.jpg"
+image = "headers/trust_header.png"
 caption = "Inferring trust from gaze cues"
 
 +++
