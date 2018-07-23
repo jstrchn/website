@@ -13,7 +13,7 @@ summary = "Behavioural, cognitive, and neural mechanisms for joint action learni
 image_preview = "headers/jaxpertise.jpg"
 
 # Tags: can be used for filtering projects.
-tags = ["joint action","expertise","coordination"]
+tags = ["joint action","expertise","coordination","employed"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://cordis.europa.eu/project/rcn/191231_en.html"
