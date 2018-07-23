@@ -12,7 +12,7 @@ summary = "Investigating how we make decisions about trustworthiness based on no
 image_preview = "headers/trust.jpg"
 
 # Tags: can be used for filtering projects.
-tags = ["gaze-cueing","trustworthiness"]
+tags = ["gaze-cueing","trustworthiness","personal"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
