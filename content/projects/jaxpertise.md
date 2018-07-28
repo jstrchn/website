@@ -7,7 +7,7 @@ date = 2018-07-23T00:00:00
 title = "LINK: Joint Action Expertise"
 
 # Project summary to display on homepage
-summary = "Behavioural, cognitive, and neural mechanisms for joint action learning."
+summary = "<b>PI:</b> Prof. Natalie Sebanz<br/>Behavioural, cognitive, and neural mechanisms for joint action learning."
 
 # Optional image to display on homepage (relative to static/img/ folder
 image_preview = "headers/jaxpertise.jpg"
