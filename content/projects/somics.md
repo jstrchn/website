@@ -7,7 +7,7 @@ date = 2018-07-23T00:00:00
 title = "LINK: Constructing Social Minds"
 
 # Project summary to display on homepage.
-summary = "Coordination, Communication and Cultural Transmission."
+summary = "<b>PI:</b> Prof. Günther Knoblich<br/> Coordination, Communication and Cultural Transmission."
 
 # Optional image to display on homepage (relative to static/img/ folder).
 image_preview = "headers/synergy.jpg"
