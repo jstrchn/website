@@ -11,5 +11,5 @@ event_url = "https://www.disself.wordpress.com"
 location = "University of Porto, Porto, Portugal" 
 
 url_custom = [{name = "Program", url = "https://disself.wordpress.com/program/"}]
-tags = ["poster"]
+tags = ["poster", "upcoming"]
 +++
