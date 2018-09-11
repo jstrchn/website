@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent & Upcoming Talks and Posters"
-subtitle = ""
+subtitle = "[See only upcoming talks](/tags/upcoming/)"
 
 # Order that this section will appear in.
 weight = 30
