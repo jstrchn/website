@@ -1,4 +1,4 @@
-+++ 
++++
 date = 2018-05-29T00:00:00
 
 title = "Think for Yourself: When trying to coordinate leads to less efficient coordination strategies than acting individually"
@@ -10,5 +10,6 @@ abstract = "If they have to meet a stranger somewhere in Paris tomorrow at noon,
 event = "Talk given as part of 'Altogether Now: Interpersonal Coordination and Social Cognition', symposium at the British Psychological Society Cognitive Section Conference 2018"
 event_url = "http://hope.ac.uk/cognitiveconference/"
 location = "Liverpool Hope University, Liverpool"
+
 url_custom = [{name = "Program", url = "http://www.hope.ac.uk/media/studywithus/departments/psychology/documents/Programme%20Final.pdf"}] tags = ["talk"]
 +++
