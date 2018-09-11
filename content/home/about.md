@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu). I work with [Professors Natalie Sebanz](http://somby.ceu.edu/people/natalie-sebanz) and [Gunther Knoblich](http://somby.ceu.edu/people/gunther-knoblich) on topics of social cognition, coordination, and communication in joint action. 
+I am a postdoctoral researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu). I work with Professors [Natalie Sebanz](http://somby.ceu.edu/people/natalie-sebanz) and [Gunther Knoblich](http://somby.ceu.edu/people/gunther-knoblich) on topics of social cognition, coordination, and communication in joint action. 
 
 Before joining the department at CEU, I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/), looking at incidental social learning from gaze cues.
