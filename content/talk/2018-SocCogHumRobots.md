@@ -10,5 +10,5 @@ event = "Upcoming poster at Social Cognition in Humans and Robots workshop in Ha
 event_url = "https://www.socsmcs.eu/conference2018" 
 location = "University Medical Center Hamburg-Eppendorf, Hamburg, Germany" 
 url_custom = [{name = "Program", url = "https://www.socsmcs.eu/system/files/PublicFiles/socSMCs_conference_program_v1.pdf"}] 
-tags = ["poster"] 
+tags = ["poster","upcoming"] 
 +++
