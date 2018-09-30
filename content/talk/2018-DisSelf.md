@@ -13,4 +13,13 @@ location = "University of Porto, Porto, Portugal"
 url_custom = [{name = "Program", url = "https://disself.wordpress.com/program/"}]
 tags = ["poster", "upcoming"]
 summary = "Upcoming poster at DisSelf conference and workshop on disembodied perception of the self and other in Porto, October 2018"
+
+# Conference type.
+# Legend:
+# 0 = Poster
+# 1 = Talk
+# 2 = Symposium
+# 3 = Workshop
+publication_types = ["0"]
+
 +++
