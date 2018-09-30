@@ -13,4 +13,13 @@ location = "Liverpool Hope University, Liverpool"
 
 url_custom = [{name = "Program", url = "http://www.hope.ac.uk/media/studywithus/departments/psychology/documents/Programme%20Final.pdf"}]
 tags = ["talk"]
+
+# Conference type.
+# Legend:
+# 0 = Poster
+# 1 = Talk
+# 2 = Symposium
+# 3 = Workshop
+publication_types = ["1"]
+
 +++
