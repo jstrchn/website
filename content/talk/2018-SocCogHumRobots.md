@@ -1,6 +1,14 @@
 +++ 
 date = 2018-09-11T00:00:00
 
+# Conference type.
+# Legend:
+# 0 = Poster
+# 1 = Talk
+# 2 = Symposium
+# 3 = Workshop
+publication_types = ["0"]
+
 title = "To Be Fair... Investigating the drive towards fairness in task distribution" 
 time_start = 2018-09-27T00:00:00 
 time_end = 2018-09-28T00:00:00
