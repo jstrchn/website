@@ -13,7 +13,6 @@ location = "University of Porto, Porto, Portugal"
 url_pdf = "/pdfs/posters/StrachanConstableKnoblich_Poster.pdf" 
 url_custom = [{name = "Program", url = "https://disself.wordpress.com/program/"}]
 tags = ["poster"]
-summary = "Poster presented at DisSelf conference and workshop on disembodied perception of the self and other in Porto, October 2018"
 
 # Conference type.
 # Legend:
