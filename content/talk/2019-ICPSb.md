@@ -13,5 +13,6 @@ location = "Palais des Congres de Paris, Paris"
 
 url_custom = [{name = "Program", url = "https://www.psychologicalscience.org/conventions/icps2019/program"}]
 tags = ["poster", "upcoming"]
+summary = "Upcoming poster presentation at the International Convention of Psychological Science (ICPS) 2019, Paris"
 
 +++
