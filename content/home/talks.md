@@ -2,7 +2,7 @@
 # Recent and Upcoming Talks widget.
 widget = "talks"
 active = true
-date = 2018-04-20T00:00:00
+date = 2016-04-20T00:00:00
 
 title = "Recent & Upcoming Talks and Posters"
 subtitle = "[See only upcoming talks](/tags/upcoming/)"
