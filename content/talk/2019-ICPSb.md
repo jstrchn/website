@@ -1,5 +1,5 @@
 +++ 
-date = 2018-11-08T00:00:00
+date = 2018-11-07T00:00:00
 
 title = "When Being Efficient Is Unfair: Investigation the Role of Fairness in Task Distribution"
 time_start = 2019-03-07T00:00:00
