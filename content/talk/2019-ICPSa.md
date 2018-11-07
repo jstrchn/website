@@ -9,7 +9,7 @@ abstract = "People in a distrust mindset find alternative solutions to problems 
 
 event = "Upcoming talk as part of *Where Do Our Expectations Lead Us? the Effects of Commitment and Trust on Cognition, Joint Action, and Communication*, symposium at the International Convention of Psychological Science (ICPS) 2019, Paris"
 event_url = "https://www.psychologicalscience.org/conventions/icps2019"
-location = "Palais des Congr\`{e}s de Paris, Paris"
+location = "Palais des Congres de Paris, Paris"
 
 url_custom = [{name = "Program", url = "https://www.psychologicalscience.org/conventions/icps2019/program"}]
 tags = ["talk", "upcoming"]
