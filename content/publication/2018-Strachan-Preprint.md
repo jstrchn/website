@@ -1,5 +1,5 @@
 +++
-title = "Investigating the formation and consolidation of incidentally learned trust. "
+title = "Investigating the formation and consolidation of incidentally learned trust"
 
 # Date first published.
 date = "2018-11-14"
