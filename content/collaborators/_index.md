@@ -19,7 +19,7 @@ Collaborators:
 
 * [Scott Cairney (University of York)](https://www.york.ac.uk/psychology/staff/academicstaff/scottc/)
 
-* [Mathieu Charbonneau (CEU)](https://cognitivescience.ceu.edu/people/mathieu-charbonneau)
+* [Mathieu Charbonneau (CEU)](https://mcharbonneau.com/)
 
 * [Merryn Constable (CEU)](http://merryndconstable.com)
 
