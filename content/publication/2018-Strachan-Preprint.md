@@ -9,14 +9,11 @@ authors = ["**Strachan, J.W.A.**", "Guttesen, A.á V.", "Smith, A.", "Gaskell, M
 
 # Publication type.
 # Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["3"]
+#  0 = 'Manuscript/Preprint'
+#  1 = 'Journal article'
+#  2 = 'Book chapter'
+#  3 = 'Undefined'
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Available as preprint on PsyArXiv"
