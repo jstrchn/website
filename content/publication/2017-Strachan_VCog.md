@@ -9,14 +9,11 @@ authors = ["**Strachan, J.W.A.**", "Kirkham, A.J.", "Manssuer, L.R.", "Over, H."
 
 # Publication type.
 # Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+#  0 = 'Manuscript/Preprint'
+#  1 = 'Journal article'
+#  2 = 'Book chapter'
+#  3 = 'Undefined'
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*Visual Cognition, 25*(7-8), 802-814"
