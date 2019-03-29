@@ -10,6 +10,8 @@ abstract = "Even from early childhood, humans have a sense of fairness. Unfair p
 event = "Poster presented at Social Cognition in Humans and Robots workshop in Hamburg, September 27-28 2018" 
 event_url = "https://www.socsmcs.eu/conference2018" 
 location = "University Medical Center Hamburg-Eppendorf, Hamburg, Germany" 
+summary = "Poster presented at Social Cognition in Humans and Robots workshop in Hamburg, September 27-28 2018" 
+
 url_pdf = "/pdfs/posters/Strachan_Torok_Sebanz_socSMCs18.pdf"
 url_custom = [{name = "Program", url = "https://www.socsmcs.eu/system/files/PublicFiles/Conference_Program_Long_Version_210918.pdf"}] 
 tags = ["poster"] 
