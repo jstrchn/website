@@ -14,7 +14,7 @@ location = "Palais des Congres de Paris, Paris"
 url_pdf = "/pdfs/posters/StrachanTorokSebanz_ICPS2019_Poster.pdf"
 url_custom = [{name = "Program", url = "https://www.psychologicalscience.org/conventions/icps2019/program"}]
 tags = ["poster"]
-summary = "Poster presentation delivered at the International Convention of Psychological Science (ICPS) 2019, Paris"
+summary = "Poster presentation delivered at the International Convention of Psychological Science (ICPS) 2019, Paris, March 7-9"
 
 # Conference type.
 # Legend:
