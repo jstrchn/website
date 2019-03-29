@@ -10,6 +10,7 @@ abstract = "If they have to meet a stranger somewhere in Paris tomorrow at noon,
 event = "Talk given as part of *Altogether Now: Interpersonal Coordination and Social Cognition*, symposium at the British Psychological Society Cognitive Section Conference 2018, August 29-31"
 event_url = "http://www.hope.ac.uk/cognitiveconference"
 location = "Liverpool Hope University, Liverpool"
+summary = "Talk given as part of *Altogether Now: Interpersonal Coordination and Social Cognition*, symposium at the British Psychological Society Cognitive Section Conference 2018, August 29-31"
 
 url_custom = [{name = "Program", url = "http://www.hope.ac.uk/media/studywithus/departments/psychology/documents/Programme%20Final.pdf"}]
 tags = ["talk"]
