@@ -15,4 +15,12 @@ url_custom = [{name = "Program", url = "http://www.cecog.eu/ducog/page_ducog_new
 tags = ["poster","upcoming"] 
 summary = "Upcoming poster presentation at the Dubrovnik Conference on Cognitive Science (DuCog) 2019"
 
+# Conference type.
+# Legend:
+# 0 = Poster
+# 1 = Talk
+# 2 = Symposium
+# 3 = Workshop
+publication_types = ["0"]
+
 +++
