@@ -14,4 +14,14 @@ url_pdf = "/pdfs/posters/Strachan_Torok_Sebanz_socSMCs18.pdf"
 url_custom = [{name = "Program", url = "https://www.socsmcs.eu/system/files/PublicFiles/Conference_Program_Long_Version_210918.pdf"}] 
 tags = ["poster"] 
 
+
+# Conference type.
+# Legend:
+# 0 = Poster
+# 1 = Talk
+# 2 = Symposium
+# 3 = Workshop
+publication_types = ["0"]
+
++++
 +++
