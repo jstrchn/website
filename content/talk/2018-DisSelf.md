@@ -10,6 +10,7 @@ abstract = "Self-relevant information is subject to privileged processing over i
 event = "Poster delivered at DisSelf conference and workshop on disembodied perception of the self and other in Porto, October 17-19 2018" 
 event_url = "https://www.disself.wordpress.com" 
 location = "University of Porto, Porto, Portugal" 
+summary = "Poster delivered at DisSelf conference and workshop on disembodied perception of the self and other in Porto, October 17-19 2018" 
 
 url_pdf = "/pdfs/posters/StrachanConstableKnoblich_Poster.pdf" 
 url_custom = [{name = "Program", url = "https://disself.wordpress.com/program/"}]
