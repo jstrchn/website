@@ -25,7 +25,7 @@ Collaborators:
 
 * [Arianna Curioni (CEU)](https://somby.ceu.edu/people/arianna-curioni)
 
-* [Tessa Flack (University of Lincoln)](https://staff.lincoln.ac.uk/fa8a6fbc-335b-4531-bbbd-321e78e2970b8)
+* [Tessa Flack (University of Lincoln)](https://staff.lincoln.ac.uk/fa8a6fbc-335b-4531-bbbd-321e78e2970b)
 
 * [Ruth Mayo (Hebrew University of Jerusalem)](https://scholars.huji.ac.il/jbc/people/ruth-mayo)
 
