@@ -29,4 +29,6 @@ selected = true
 url_preprint = "https://psyarxiv.com/3khjf"
 url_dataset = "https://osf.io/q79gv"
 
+# Project
+projects = ["incidentalTrust"]
 +++
