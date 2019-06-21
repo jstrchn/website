@@ -12,7 +12,7 @@ event_url = "http://www.cecog.eu/ducog/"
 location = "Centre for Advanced Studies, Dubrovnik, Croatia"
 summary = "Upcoming poster presentation at the Dubrovnik Conference on Cognitive Science (DuCog), May 23-25 2019"
 
-url_custom = [{name = "PDF", url = "pdfs/posters/StrachanTorokSebanz_ICPS2019_Poster.pdf"}]
+url_pdf = "pdfs/posters/StrachanTorokSebanz_ICPS2019_Poster.pdf"
 url_custom = [{name = "Program", url = "http://www.cecog.eu/ducog/page_ducog_new.php"}]
 tags = ["poster"] 
 
