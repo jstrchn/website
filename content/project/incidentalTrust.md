@@ -32,15 +32,3 @@ When we see a person’s eyes move, our own attention reorients towards what the
 My PhD looked at exploiting this gaze-cueing effect to manipulate social judgements of the faces involved. We presented participants with faces that consistently provided valid or invalid cues to a target object's location, and found that after this cueing participants rated valid faces as more trustworthy and invalid faces as less trustworthy.
 
 We found that these judgements are specific to trust, are surprisingly long-lasting, and seem to be primarily driven by people finding invalid faces untrustworthy - suggesting a potential cheater detection mechanism aimed at guiding future interactions with the person.
-
-------
-
-For papers on this projects, see:
-
-* Strachan, Kirkham, Manssuer & Tipper (2016): [Incidental learning of trust: Examining the role of emotion and visuomotor fluency.](publication/2016-strachan-jeplmc/)
-
-* Strachan & Tipper (2017): [Examining the durability of incidentally learned trust from gaze cues.](publication/2017-strachan-qjep/)
-
-* Strachan, Kirkham, Manssuer, Over & Tipper (2017): [Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness.](publication/2017-strachan-vcog/)
-
-* Strachan, Guttesen, Smith, Gaskell, Tipper, & Cairney (accepted): [Investigating the formation and consolidation of incidentally learned trust](publication/2019-Strachan-JEPLMC/)
