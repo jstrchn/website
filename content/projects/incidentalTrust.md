@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Incidental Social Learning from Gaze Cues"
+title = "Incidental Learning of Trust from Gaze Cues"
 
 # Project summary to display on homepage.
 summary = "Investigating how we make decisions about trustworthiness based on nonverbal gaze behaviour."
