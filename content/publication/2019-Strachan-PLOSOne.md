@@ -29,4 +29,7 @@ selected = true
 url_poster = "/pdfs/posters/Strachan_Knoblich_Sebanz_IEG18_poster.pdf"
 url_dataset = "https://osf.io/ue5xy/"
 
+# Projects
+projects = ["jaxpertise","somics"]
+
 +++
