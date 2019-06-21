@@ -42,3 +42,5 @@ For papers on this projects, see:
 * Strachan & Tipper (2017): [Examining the durability of incidentally learned trust from gaze cues.](publication/2017-strachan-qjep/)
 
 * Strachan, Kirkham, Manssuer, Over & Tipper (2017): [Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness.](publication/2017-strachan-vcog/)
+
+* Strachan, Guttesen, Smith, Gaskell, Tipper, & Cairney (accepted): [Investigating the formation and consolidation of incidentally learned trust](publication/2019-Strachan-JEPLMC/)
