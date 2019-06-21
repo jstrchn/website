@@ -26,7 +26,7 @@ abstract_short = "People can learn to make trust inferences on the basis of eye 
 selected = true
 
 # Links (optional).
-url_custom = [{name = "Preprint", url = "https://psyarxiv.com/3khjf"}]
+url_preprint = "https://psyarxiv.com/3khjf"
 url_dataset = "https://osf.io/q79gv"
 
 +++
