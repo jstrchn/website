@@ -31,4 +31,7 @@ url_source = "http://psycnet.apa.org/journals/xlm/42/11/1759/"
 url_poster = "https://www.researchgate.net/publication/281542366_Using_scalar_ratings_to_track_changes_in_apparent_trustworthiness_induced_by_helpful_and_misleading_gaze_cues"
 url_dataset = "https://osf.io/ybkax/"
 
+# Projects
+projects = ["incidentalTrust"]
+
 +++
