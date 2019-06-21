@@ -1,5 +1,5 @@
 +++
-title = "Incidental learning of trust from eye-gaze: Effects of race and facial trustworthiness"
+title = "The role of emotion in the dyad inversion effect"
 
 # Date first published.
 date = "2019-06-19"
