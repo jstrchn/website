@@ -16,7 +16,7 @@ authors = ["**Strachan, J.W.A.**", "Sebanz, N.", "Knoblich, G."]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*PLOS One*, accepted"
+publication = "*PLoS ONE 14*(7): e0219185"
 
 # Abstract and optional shortened version.
 abstract = "When observing two individuals, people are faster and better able to identify them as other people if they are facing each other than if they are facing away from each other. This advantage disappears when the images are inverted, suggesting that the visual system is particularly sensitive to dyads in this upright configuration, and perceptually groups socially engaged dyads into a single holistic unit. This dyadic inversion effect was obtained with images of full bodies. Body information was sufficient to elicit this effect even when information about head orientation was absent. However, it has not been tested whether the dyadic inversion effect occurs with face images and whether the emotions displayed by the faces modulate the effect. In three experiments we obtained robust dyadic inversion with face images. Holistic processing of upright face pairs occurred for neutral, happy, and sad faces but not for angry and fearful face pairs. Thus, perceptual grouping of individuals into pairs appears to depend on the emotional expressions of individual faces and the interpersonal relations they imply."
@@ -27,6 +27,8 @@ selected = true
 
 # Links (optional).
 url_poster = "/pdfs/posters/Strachan_Knoblich_Sebanz_IEG18_poster.pdf"
+url_source = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219185"
+url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0219185&type=printable"
 url_dataset = "https://osf.io/ue5xy/"
 
 # Projects
