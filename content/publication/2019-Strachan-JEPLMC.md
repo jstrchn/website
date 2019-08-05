@@ -28,6 +28,9 @@ selected = true
 # Links (optional).
 url_preprint = "https://psyarxiv.com/3khjf"
 url_dataset = "https://osf.io/q79gv"
+url_source = "https://psycnet.apa.org/doi/10.1037/xlm0000752"
+url_pdf = "https://psycnet.apa.org/fulltext/2019-43463-001.pdf"
+
 
 # Project
 projects = ["incidentalTrust"]
