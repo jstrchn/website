@@ -37,4 +37,4 @@ Collaborators:
 
 * [Georgina Török (CEU)](https://somby.ceu.edu/people/georgina-torok)
 
-* [Jason Raisic (Northumbria University)](http://jasonrajsic.com/)
+* [Jason Rajsic (Northumbria University)](http://jasonrajsic.com/)
