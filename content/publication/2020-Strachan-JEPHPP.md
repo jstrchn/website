@@ -2,7 +2,7 @@
 title = "It Goes With the Territory: Ownership Across Spatial Boundaries"
 
 # Date first published.
-date = "2019-06-19"
+date = "2020-04-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Strachan, J.W.A.**", "Constable, M.D.", "Knoblich, G."]
