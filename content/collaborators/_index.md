@@ -21,7 +21,7 @@ Collaborators:
 
 * [Mathieu Charbonneau (CEU)](https://mcharbonneau.com/)
 
-* [Merryn Constable (CEU)](http://merryndconstable.com)
+* [Merryn Constable (Northumbria University)](http://merryndconstable.com)
 
 * [Arianna Curioni (CEU)](https://somby.ceu.edu/people/arianna-curioni)
 
@@ -31,6 +31,10 @@ Collaborators:
 
 * [Kay Ritchie (University of Lincoln)](https://kayritchie87.wixsite.com/kayritchiepsychology)
 
+* [Felicity Wolohan (Edge Hill University)](https://www.edgehill.ac.uk/psychology/people/academic-staff/dr-felicity-wolohan/)
+
 * [Dan Sperber (CEU)](http://dan.sperber.fr)
 
 * [Georgina Török (CEU)](https://somby.ceu.edu/people/georgina-torok)
+
+* [Jason Raisic (Northumbria University)](http://jasonrajsic.com/)
