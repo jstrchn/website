@@ -13,7 +13,7 @@ authors = ["**Strachan, J.W.A.**", "Knoblich, G.", "Sebanz, N."]
 # 1 = 'Journal article'
 # 2 = 'Book chapter'
 # 3 = 'Undefined'
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In Fridland, E. & Pavese, C. (Eds). *Routledge Handbook on Philosophy of Skill and Expertise (Forthcoming, August 2020)*"
