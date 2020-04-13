@@ -5,7 +5,7 @@ title = "Skill and Expertise in Joint Action"
 date = "2020-08-21"
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = [**"Strachan, J.W.A."**, "Knoblich, G.", "Sebanz, N."]
+authors = ["**Strachan, J.W.A.**", "Knoblich, G.", "Sebanz, N."]
 
 # Publication type.
 # Legend:
