@@ -11,8 +11,9 @@ weight = 5
 #[interests]
 #  interests = [
 #    "Social Cognition",
+#    "Coordination",
 #    "Joint Action",
-#    "Coordination"
+#    "Cultural Evolution"
 #  ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +36,6 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu). I work with Professors [Natalie Sebanz](http://somby.ceu.edu/people/natalie-sebanz) and [G&uuml;nther Knoblich](http://somby.ceu.edu/people/gunther-knoblich) on topics of social cognition, coordination, and communication in joint action. 
+I am a MINDED Researcher on the Marie Curie COFUND Project [MINDED](minded-cofund.eu), working at the [Italian Institute of Technology](http://iit.it) in Genoa, Italy. I work as part of the [Cognition, Motion, and Neuroscience Unit](https://www.iit.it/research/lines/cognition-motion-and-neuroscience) with Professor [Cristina Becchio](https://www.iit.it/it/people/cristina-becchio). I am currently working on understanding how teachers adjust their actions during live pedagogical interactions to effectively structure and communicate information, with a particular focus on the role of motor variability. 
 
-Before joining the department at CEU, I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/), looking at incidental social learning from gaze cues.
+Before joining IIT, I was a postdoctoral researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu) with Professors [Natalie Sebanz](http://somby.ceu.edu/people/natalie-sebanz) and [G&uuml;nther Knoblich](http://somby.ceu.edu/people/gunther-knoblich). I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/), looking at incidental social learning from gaze cues.
