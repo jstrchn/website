@@ -1,27 +1,26 @@
 +++
-
-Date this page was created.
+# Date this page was created.
 date = 2020-07-22T00:00:00
 
-Project title.
+# Project title.
 title = "Understanding Teaching Interactions"
 
-Project summary to display on homepage.
+# Project summary to display on homepage.
 summary = "How do people adapt their actions in order to teach?"
 
-Optional image to display on homepage (relative to static/img/ folder).
+# Optional image to display on homepage (relative to static/img/ folder).
 image_preview = "headers/teaching.png"
 
-Tags: can be used for filtering projects.
+# Tags: can be used for filtering projects.
 tags = ["coordination","joint action","social learning","pedagogy","culture","personal"]
 
-Optional external URL for project (replaces project detail page).
+# Optional external URL for project (replaces project detail page).
 external_link = ""
 
-Does the project detail page use math formatting?
+# Does the project detail page use math formatting?
 math = false
 
-Optional featured image (relative to static/img/ folder).
+# Optional featured image (relative to static/img/ folder).
 <!---[header] image = "headers/teach_header.png" caption = ""--->
 
 +++
