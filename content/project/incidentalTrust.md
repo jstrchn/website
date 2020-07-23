@@ -6,13 +6,13 @@ date = 2016-04-27T00:00:00
 title = "Incidental Learning of Trust from Gaze Cues"
 
 # Project summary to display on homepage.
-summary = "Investigating how we make decisions about trustworthiness based on nonverbal gaze behaviour."
+summary = "How do we use eye gaze to decide who to trust?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "headers/trust.jpg"
 
 # Tags: can be used for filtering projects.
-tags = ["gaze-cueing","trustworthiness","personal"]
+tags = ["gaze-cueing","trustworthiness","perception"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
