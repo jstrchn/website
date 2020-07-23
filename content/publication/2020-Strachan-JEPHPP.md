@@ -29,6 +29,5 @@ selected = true
 url_dataset = "https://osf.io/589nc/"
 url_source = "http://dx.doi.org/10.1037/xhp0000742"
 
-# Project
-projects = ["somics","jaxpertise"]
+# Project projects = [""]
 +++
