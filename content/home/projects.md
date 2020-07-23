@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Current Projects"
-subtitle = "*Projects that I am employed on show link to external project pages*<br/><br/>[List of collaborators](/collaborators/)"
+subtitle = "[List of collaborators](/collaborators/)"
 
 # Order that this section will appear in.
 weight = 30
@@ -23,7 +23,7 @@ view = 1
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 2
+filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
