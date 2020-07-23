@@ -23,7 +23,7 @@ abstract = "Humans rapidly make inferences about individuals’ trustworthiness 
 abstract_short = "Incidental learning of trust from gaze cues is weaker for other-race than own-race faces, but is just as strong for highly trustworthy and low trustworthy faces."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/pdf/10.1080/13506285.2017.1338321?needAccess=true"
