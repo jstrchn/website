@@ -55,17 +55,17 @@ enableGitInfo = false
 
   # Your details.
   name = "James W.A. Strachan"
-  role = "Postdoctoral Researcher in Psychology"
+  role = "MINDED Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Central European University", url = "https://somby.ceu.edu/people/james-strachan" } ,
+  organizations = [ { name = "Italian Institute of Technology", url = "https://www.iit.it/it/people/james-strachan" } ,
     {name = "CV", url = "JStrachan_CV.pdf"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "james_strachan.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "james.wa.strachan@gmail.com"
-  address = "Department of Cognitive Science, Central European University, Oktober 6 u. 7, 1051 Budapest, Hungary"
+  address = "Cognition, Motion, and Neuroscience Unit, Fondazione Istituto Italiano di Tecnologia, Via Enrico Melen 83, 16152 Genoa, Italy"
   
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -93,11 +93,11 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  # map = 0
+  # map_api_key = ""
+  # latitude = "37.4275"
+  # longitude = "-122.1697"
+  # zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
