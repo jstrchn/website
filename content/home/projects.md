@@ -33,11 +33,11 @@ filter_default = 2
    tag = "*"
   
  [[filter]]
-   name = "Individual Projects"
-   tag = ".personal"
+   name = "Social Perception"
+   tag = ".perception"
 
  [[filter]]
-   name = "Currently Employed"
-   tag = ".employed"
+   name = "Social Learning and Teaching"
+   tag = ".social learning"
 +++
 
