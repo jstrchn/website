@@ -22,7 +22,7 @@ Does the project detail page use math formatting?
 math = false
 
 Optional featured image (relative to static/img/ folder).
-[header] image = "headers/teach_header.png" caption = ""
+<!---[header] image = "headers/teach_header.png" caption = ""--->
 
 +++
 
