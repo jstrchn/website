@@ -7,11 +7,13 @@ highlight = false
 
 Current Advisors:
 
+* [Cristina Becchio](https://www.iit.it/it/people/cristina-becchio)
+
+Collaborators:
+
 * [Natalie Sebanz](https://somby.ceu.edu/people/natalie-sebanz)
 
 * [Günther Knoblich](https://somby.ceu.edu/people/gunther-knoblich)
-
-Collaborators:
 
 * [Steve Tipper (University of York)](https://www.york.ac.uk/psychology/staff/academicstaff/steventipper/)
 
