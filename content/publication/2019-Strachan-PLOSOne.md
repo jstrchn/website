@@ -32,6 +32,6 @@ url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pon
 url_dataset = "https://osf.io/ue5xy/"
 
 # Projects
-projects = ["jaxpertise","somics"]
+projects = ["perception"]
 
 +++
