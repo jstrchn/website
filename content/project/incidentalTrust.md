@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Incidental Learning of Trust from Gaze Cues"
 
 # Project summary to display on homepage.
-summary = "How do we use eye gaze to decide who to trust?"
+summary = "How do we use eye gaze to make inferences about other people?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "headers/trust.jpg"
