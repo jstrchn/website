@@ -12,7 +12,7 @@ summary = "How do people adapt their actions in order to teach?"
 image_preview = "headers/teaching.png"
 
 # Tags: can be used for filtering projects.
-tags = ["coordination","joint action","social learning","pedagogy","culture","personal"]
+tags = ["coordination","joint action","social learning","pedagogy","culture"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
