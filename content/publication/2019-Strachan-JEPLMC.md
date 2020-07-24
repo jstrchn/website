@@ -34,4 +34,8 @@ url_pdf = "https://psycnet.apa.org/fulltext/2019-43463-001.pdf"
 
 # Project
 projects = ["incidentalTrust"]
+
+# Tags
+tags = ["gaze-cueing","trustworthiness","gaze learning","sleep","targeted memory reactivation (TMR)"social perception"]
+
 +++
