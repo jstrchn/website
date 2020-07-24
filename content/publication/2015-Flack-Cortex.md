@@ -28,4 +28,7 @@ selected = false
 url_pdf = "http://www-users.york.ac.uk/~ta505/FlackCortex2015.pdf"
 url_source = "http://www.sciencedirect.com/science/article/pii/S0010945215000799"
 
+# Tags
+tags = ["social perception","fMRI","emotion"]
+
 +++
