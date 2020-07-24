@@ -12,7 +12,7 @@ summary = "How do we use eye gaze to make inferences about other people?"
 image_preview = "headers/trust.jpg"
 
 # Tags: can be used for filtering projects.
-tags = ["gaze-cueing","trustworthiness","perception"]
+tags = ["gaze-cueing","trustworthiness","social perception"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
