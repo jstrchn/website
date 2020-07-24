@@ -34,10 +34,11 @@ filter_default = 0
   
  [[filter]]
    name = "Social Perception"
-   tag = ".perception"
+   tag = ".social.perception"
 
  [[filter]]
-   name = "Social Learning and Teaching"
-   tag = ".social learning"
+   name = "Social Learning"
+   tag = ".social.learning"
+   
 +++
 
