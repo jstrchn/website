@@ -33,4 +33,6 @@ url_dataset = "https://osf.io/ue5xy/"
 
 # Projects
 
+# Tags
+tags = ["eye gaze","emotion","perceptual grouping","dyad inversion effect","social perception"]
 +++
