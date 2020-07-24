@@ -34,4 +34,7 @@ url_dataset = "https://osf.io/ybkax/"
 # Projects
 projects = ["incidentalTrust"]
 
+# Tags
+tags = ["gaze-cueing","trustworthiness","gaze learning","social perception"]
+
 +++
