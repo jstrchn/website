@@ -28,4 +28,7 @@ selected = true
 url_source = "https://www.routledge.com/The-Routledge-Handbook-of-Philosophy-of-Skill-and-Expertise/Fridland-Pavese/p/book/9781138744776"
 
 # Project
+
+# Tags
+tags = ["skill","expertise","joint action","coordination"]
 +++
