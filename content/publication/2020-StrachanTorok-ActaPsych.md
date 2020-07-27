@@ -27,6 +27,7 @@ selected = true
 
 # Links (optional).
 url_dataset = "https://osf.io/ay7n4/"
+url_pdf = "https://osf.io/uh3sf/"
 
 # Project projects = [""]
 
