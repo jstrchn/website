@@ -181,6 +181,7 @@ enableGitInfo = false
     'Talk', # 1
     'Symposium', # 2
     'Workshop', # 3
+    'Proceedings Paper', #4
   ]
 
   # Configuration of talk pages.
