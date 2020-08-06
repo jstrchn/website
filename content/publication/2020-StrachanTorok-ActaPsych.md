@@ -26,6 +26,7 @@ abstract_short = "People have a drive towards maximising the efficiency of their
 selected = true
 
 # Links (optional).
+url_source = "https://www.sciencedirect.com/science/article/pii/S0001691820300512"
 url_dataset = "https://osf.io/ay7n4/"
 url_custom = [{name = "Manuscript", url = "https://osf.io/uh3sf/"}]
 
