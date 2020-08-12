@@ -16,7 +16,7 @@ authors = ["**Strachan, J.W.A.**", "Török, G."]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*Acta Psychologica*, accepted."
+publication = "*Acta Psychologica, 210*, 103158."
 
 # Abstract and optional shortened version.
 abstract = "Individuals have a drive towards maximising action efficiency, which is reflected in action choices that minimize movement costs to reach a goal. In joint actions, actors prioritise joint efficiency or coefficiency, maximising the utility of the joint action even if this comes at a cost to themselves. However, it remains an open question whether actors are willing to unilaterally sacrifice their partner’s individual efficiency for the greater good, when forcing a partner to incur additional costs may be interpreted as unfair. In two experiments we explored how participants would choose to distribute a motor task that required either a fair or an unfair distribution of labour. We found that, both whether there was opportunity for reciprocity (Experiment 1) or not (Experiment 2), participants maximised the coefficiency of their joint actions, regardless of how unfair this distribution of labour proved to be regarding the individual action costs. Taken together, our results suggest participants use a rational decision-making framework that prioritises overall efficiency over both individual efficiency and a consideration of fairness."
