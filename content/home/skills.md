@@ -29,13 +29,13 @@ feature:
   icon_pack: fas
   name: Social learning
 - description: How do we decipher what those around us know, think, and feel?
-  icon: head-side-brain
+  icon: brain
   icon_pack: fas
   name: Social perception
-- description: How does our sense of self and others in the environment affect our cognition, perception, and action?
-  icon: flag
+- description: How does the social landscape affect our cognition, perception, and action?
+  icon: users
   icon_pack: fas
-  name: Self and Other 
+  name: Social cognition 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
