@@ -29,16 +29,6 @@ feature:
   icon_pack: fas
   name: Social learning
 
-feature: 
-- description: How do we decipher what those around us know, think, and feel?
-  icon: brain
-  icon_pack: fas
-  name: Social perception
-- description: How does the social landscape affect our cognition, perception, and action?
-  icon: users
-  icon_pack: fas
-  name: Social cognition 
-
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
