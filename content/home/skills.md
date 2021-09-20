@@ -27,9 +27,9 @@ feature:
 - description: How do we acquire new skills and techniques from the people around us? 
   icon: graduation-cap
   icon_pack: fas
+  name: Social learning
 
 feature: 
-  name: Social learning
 - description: How do we decipher what those around us know, think, and feel?
   icon: brain
   icon_pack: fas
