@@ -29,7 +29,7 @@ experience:
     location: Genoa, Italy 
     date_start: '2020-07-01'
     date_end: ''
-    description: Postdoctoral research fellowship investigating movement-to-movement variability of upper limb kinematics in teaching interactions
+    description: Postdoctoral research fellowship investigating movement-to-movement variability of upper limb kinematics in teaching interactions<br />[Institutional webpage](https://iit.it/people/james-strachan)
         
   - title: Postdoctoral Researcher
     company: Social Mind and Body lab, Department of Cognitive Science, Central European University
@@ -39,7 +39,7 @@ experience:
     location: Budapest, Hungary
     date_start: '2016-11-01'
     date_end: '2020-06-30'
-    description: Postdoctoral researcher studying coordination and communication in joint action
+    description: Postdoctoral researcher studying coordination and communication in joint action<br />[Institutional webpage](https://somby.ceu.edu/james-strachan)
     
   - title: PhD Student
     company: Department of Psychology, University of York
