@@ -4,8 +4,7 @@ summary: How does the social relevance of a landscape affect how we process obje
 tags:
 - Self-processing
 - Territory
-- 
-- Former
+- Action affordances
 
 date: "2013-10-01T00:00:00Z"
 
@@ -18,17 +17,14 @@ image:
 
 ---
 
-When we see a person’s eyes move, our own attention reorients towards what they are looking at. This results in faster and easier processing of targets in the gazed-at location than of targets in an ignored location.
+There is something special in the way that humans own things. Other animals can use objects as tools, and may even keep useful objects for future use, but human ownership goes further than this. Owning an object grants it a special property of being 'mine', even if I am not currently using it or if it is outside of my possession, as though this 'mineness' were some intrinsic property of the object.
 
-My PhD looked at exploiting this gaze-cueing effect to manipulate social judgements of the faces involved. We presented participants with faces that consistently provided valid or invalid cues to a target object's location, and found that after this cueing participants rated valid faces as more trustworthy and invalid faces as less trustworthy.
+This sense of ownership carries with it several benefits for the object in terms of object processing. Owned objects are preferred, valued, and remembered over unowned objects, and ownership can even affect the low-level motor characteristics of how people interact with objects and other people. Owned objects are also easier to identify and respond to.
 
-![jpg](./stimExample.jpg)
+The underlying explanation for this ownership advantage has been attributed by the relevance of ownership to the self. Therefore, this ownership advantage is actually a self-privilege in the perceptual and action systems stemming from a chronically activated self schema that links to more elaborate semantic networks to prioritise information concerning the self. 
 
-We found that these judgements are specific to trust, are surprisingly long-lasting, and seem to be primarily driven by people finding invalid faces untrustworthy - suggesting a potential cheater detection mechanism aimed at guiding future interactions with the person.
+Such effects are typically characterised in terms of self-to-object relationships, and can often be thought of as anchored to the object in question. However, humans live in a complex social environment where not just objects can be self-relevant: we can also attribute that same sense of ownership to spaces, such as homes or offices or even smaller spaces such as shelves in a shared kitchen cupboard. Such owned spaces, or territories, share properties with owned objects - they remain 'mine' even if I am not physically present, and grant a jurisdiction over objects within that space, merely as a consequence of being owned. 
 
-I have recently started a collaboration with [Dr. Felicity Wolohan](https://www.edgehill.ac.uk/psychology/people/academic-staff/dr-felicity-wolohan/) at Edge Hill University to look at how this gaze-learning phenomenon can offer insights into how people bounce back following episodes of social exclusion. With the support of a BA/Leverhulme Small Research Grant in early 2020, we are working on a project that aims to directly test how sensitive socially excluded individuals are to social cues in their environment, how they use these cues to derive information about how to reintegrate, and how these processes differ in people who are chronically lonely. 
+Recently, I published a study (Strachan, Constable & Knoblich, 2020) investigating how this sense of space ownership or territory could be induced in an experimental design and how this minimal sense of territory affected the classic self-prioritisation effect for owned objects. Objects belonging to a participant or to somebody else appeared above baskets belonging to the self or to the other, into which people were instructed to sort them. Participant's owned objects were indeed responded to faster than objects belonging to somebody else, but only when they appeared above their own basket, suggesting that the location that the object appeared was playing a moderating role on the self-prioritisation effect. 
 
-If you are interested in more information about this project, check out some of my published papers from during and after my PhD, listed below. For less academic resources, see below:
-
-- *How do we decide who to trust? Our eyes could hold important clues*. [University of York Research Highlights](https://www.york.ac.uk/research/themes/trust/)
-- *Why do I trust you?* UK national semi-finalist entry in the [2015 3 Minute Thesis competition](https://www.vitae.ac.uk/events/three-minute-thesis-competition/3mt-2015/copy_of_uk-3mt-semi-finalists-2015)
+With my colleagues [Dr. Merryn Constable](https://merryndconstable.com) and [Dr. Jason Rajsic](http://jasonrajsic.com/), I have been exploring this mediating role of territory further. We are interested in exploring how mere ownership of a space or territory affects the processing of objects within that space using a combination of behavioural and electroencephalographic (EEG) measures of brain activity to dissociate attention-based processes from action selection and execution.

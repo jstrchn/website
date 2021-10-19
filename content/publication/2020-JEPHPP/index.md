@@ -50,6 +50,9 @@ url_poster: "uploads/posters/StrachanConstableKnoblich_Poster.pdf"
 url_source: "http://dx.doi.org/10.1037/xhp0000742"
 url_dataset: "https://osf.io/589nc/"
 
+projects:
+- territory
+
 ---
 
 

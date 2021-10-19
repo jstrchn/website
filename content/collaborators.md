@@ -14,19 +14,17 @@ header:
 
 Current Advisor:
 
-:italy: [Cristina Becchio (IIT)](https://www.iit.it/it/people/cristina-becchio)
+:it: [Cristina Becchio (IIT)](https://www.iit.it/it/people/cristina-becchio)
 
 Collaborators:
 
 :uk: [Scott Cairney (University of York)](https://www.york.ac.uk/psychology/staff/academicstaff/scottc/)
 
-:morocco: [Mathieu Charbonneau (Université Mohammed VI Polytechnique, Morocco)](https://mcharbonneau.com/)
+:morocco: [Mathieu Charbonneau (Université Mohammed VI Polytechnique)](https://mcharbonneau.com/)
 
 :uk: [Merryn Constable (Northumbria University)](http://merryndconstable.com)
 
 :austria: [Arianna Curioni (CEU)](https://somby.ceu.edu/people/arianna-curioni)
-
-:uk: [Tessa Flack (University of Lincoln)](https://staff.lincoln.ac.uk/fa8a6fbc-335b-4531-bbbd-321e78e2970b)
 
 :austria: [Günther Knoblich (CEU)](https://somby.ceu.edu/people/gunther-knoblich)
 
@@ -38,8 +36,6 @@ Collaborators:
 
 :uk: [Jason Rajsic (Northumbria University)](http://jasonrajsic.com/)
 
-:uk: [Kay Ritchie (University of Lincoln)](https://kayritchie87.wixsite.com/kayritchiepsychology)
-
 :de: [Azzurra Ruggeri (MPI for Human Development; CEU)](https://www.mpib-berlin.mpg.de/research/research-groups/mprg-isearch)
 
 :austria: [Natalie Sebanz (CEU)](https://somby.ceu.edu/people/natalie-sebanz)
@@ -50,7 +46,7 @@ Collaborators:
 
 :de: [Georgina Török (MPI for Human Development)](https://www.mpib-berlin.mpg.de/research/research-groups/mprg-isearch/team)
 
-:usa: [Robrecht van der Wel (Rutgers University)](https://vanderwel.camden.rutgers.edu/)
+:us: [Robrecht van der Wel (Rutgers University)](https://vanderwel.camden.rutgers.edu/)
 
 :uk: [Felicity Wolohan (Edge Hill University)](https://www.edgehill.ac.uk/psychology/people/academic-staff/dr-felicity-wolohan/)
 
