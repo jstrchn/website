@@ -1,11 +1,11 @@
 ---
-title: Deriving Social Information from Gaze
-summary: How do we make inferences about other people based on where they look?
+title: Territory and the Self
+summary: How does the social relevance of a landscape affect how we process objects?
 tags:
-- Social Perception
-- Gaze Cueing
-- Trustworthiness 
-- PhD
+- Self-processing
+- Territory
+- 
+- Former
 
 date: "2013-10-01T00:00:00Z"
 
@@ -13,7 +13,7 @@ date: "2013-10-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Where somebody is looking can tell us a lot about their internal mental state
+  caption: Image source [https://commons.wikimedia.org/wiki/File:World_Map.jpg]
   focal_point: Smart
 
 ---

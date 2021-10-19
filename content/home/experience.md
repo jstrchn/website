@@ -29,7 +29,7 @@ experience:
     location: Genoa, Italy 
     date_start: '2020-07-01'
     date_end: ''
-    description: Postdoctoral research fellowship investigating movement-to-movement variability of upper limb kinematics in teaching interactions<br />[Institutional webpage](https://iit.it/people/james-strachan)
+    description: Postdoctoral research fellowship investigating movement-to-movement variability of upper limb kinematics in teaching interactions<br />[Institutional webpage](https://www.iit.it/it/people-details/-/people/james-strachan)
         
   - title: Postdoctoral Researcher
     company: Social Mind and Body lab, Department of Cognitive Science, Central European University

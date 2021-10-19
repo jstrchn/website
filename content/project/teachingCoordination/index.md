@@ -4,10 +4,9 @@ summary: How do people adapt their actions in order to teach?
 tags:
 - Teaching
 - Pedagogy
-- Social Learing
+- Social Learning
 - Coordination
 - Joint Action
-- Current
 
 date: "2019-10-01T00:00:00Z"
 
@@ -15,7 +14,7 @@ date: "2019-10-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: What are the cognitive mechanisms supporting the transmission of technical skills?
+  caption: What are the cognitive mechanisms supporting the transmission of technical skills? 
   focal_point: Smart
 
 ---
