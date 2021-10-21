@@ -44,6 +44,7 @@ links:
 - name: Manuscript
   url: https://osf.io/uh3sf/
 
+url_pdf: "uploads/papers/StrachanTorok_ActaPsych2020_Manuscript.pdf"
 url_poster: "uploads/posters/Strachan_Torok_Sebanz_socSMCs18.pdf"
 url_source: "https://www.sciencedirect.com/science/article/pii/S0001691820300512"
 url_dataset: "https://osf.io/ue5xy/"

@@ -43,6 +43,7 @@ tags:
 # Display this page in the Featured widget?
 featured: false
 
+url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256901&type=printable"
 url_source: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256901"
 url_dataset: "https://osf.io/mgwek"
 

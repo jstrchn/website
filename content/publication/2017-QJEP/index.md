@@ -39,9 +39,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "http://journals.sagepub.com/doi/pdf/10.1080/17470218.2016.1220609"
+url_pdf: "uploads/papers/StrachanTipper_QJEP2020_Manuscript.pdf"
 url_source: "http://www.tandfonline.com/doi/abs/10.1080/17470218.2016.1220609"
 url_dataset: "https://osf.io/gqcxq/"
+
 
 projects: 
 - trustLearning_PhD

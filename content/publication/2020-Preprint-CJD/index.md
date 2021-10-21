@@ -41,11 +41,11 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
+url_pdf: "https://osf.io/szeuw/"
+
 links:
 - name: OSF Project
   url: https://osf.io/bwcvm/
-- name: Manuscript
-  url: https://osf.io/szeuw/
 
 ---
 
