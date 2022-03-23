@@ -42,11 +42,11 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-url_pdf: "https://osf.io/2gv46/"
+url_pdf: "https://psyarxiv.com/ahrgs/download/"
 
 links:
-- name: OSF Project
-  url: https://osf.io/9tdf3/
+- name: Preprint
+  url: https://psyarxiv.com/ahrgs/
 
 ---
 
