@@ -11,7 +11,7 @@ authors:
 - Strachan JWA
 
 date: "2022-03-14T00:00:00Z"
-doi: ""
+doi: "10.31234/osf.io/ahrgs"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-03-14T00:00:00Z"
@@ -47,6 +47,9 @@ url_pdf: "https://psyarxiv.com/ahrgs/download/"
 links:
 - name: Preprint
   url: https://psyarxiv.com/ahrgs/
+
+projects:
+- teachingCoordination
 
 ---
 
