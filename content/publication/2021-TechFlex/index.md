@@ -22,8 +22,8 @@ publishDate: "2021-07-31T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Invited chapter under revision for edited book by Charbonneau, M. and Sperber, D. *Technical Flexibility and Rigidity* (working title, est. publication 2023)."
-publication_short: In *Technical Flexibility and Rigidity*, upcoming
+publication: "Invited chapter accepted for edited book by Charbonneau, M. (ed.) *The Evolution of Techniques: Rigidity and Flexibility in Use, Transmission, and Innovation* in the Vienna Series in Theoretical Biology. Planned publication 2024"
+publication_short: In *The Evolution of Techniques: Rigidity and Flexibility in Use, Transmission, and Innovation*, part of the Vienna Series in Theoretical Biology, forthcoming"
 
 abstract: No abstract available. 
 
