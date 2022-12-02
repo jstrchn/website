@@ -45,6 +45,10 @@ url_source: "https://www.routledge.com/The-Routledge-Handbook-of-Philosophy-of-S
 links: 
 - name: Chapter
   url: https://www.taylorfrancis.com/chapters/edit/10.4324/9781315180809-36/skill-expertise-joint-action-james-strachan-g%C3%BCnther-knoblich-natalie-sebanz?context=ubx&refId=2da5e5bd-5edf-4f1c-9481-679efa25be92
+
+url_pdf: "uploads/papers/Strachan_Knoblich_Sebanz_SkilledJointAction_Chapter.pdf"
+url_source: "https://doi.org/10.4324/9781315180809"
+
 ---
 
 

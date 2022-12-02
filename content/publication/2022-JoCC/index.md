@@ -21,7 +21,7 @@ publishDate: "2022-09-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Cognition and Culture, 22, p.451'466
+publication: Journal of Cognition and Culture, 22, p.451-466
 publication_short: Journal of Cognition and Culture
 
 abstract: Copying has been a productive paradigm for the study cultural learning. Copying is about information transmission, the success of which is measured by the similarity of knowledge between models and learners. In this paper, we identify some short-comings in the use of copying mechanisms (e.g., imitation, emulation) as explanations of cultural learning, emphasizing their focus on the flow of information (from expert to novice) instead of on the specific interactions involved during episodes of learning. We argue that the micro-interactions between models and learners and how they coordinate with one another better explain how knowledge is passed on between individuals. We propose to understand cultural learning as a form of interpersonal coordination, i.e., as the result of dynamic interactions involving mutual behavioral alignment between two interacting agents. We sketch how a coordination framework provides a richer picture of cultural learning, with more explanatory power than the copying paradigm.
