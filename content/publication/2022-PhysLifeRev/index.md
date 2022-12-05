@@ -10,7 +10,7 @@ authors:
 - Winters J
 
 date: "2022-12-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.plrev.2022.11.012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-12-01T00:00:00Z"
@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: Physics of Life Reviews, in press
 publication_short: Physics of Life Reviews
 
-abstract: N/A
+abstract: Commentary on Whiten, A. (2022). Blind alleys and fruitful pathways in the comparative study of cultural cognition. Physics of Life Reviews, 43. pp.211-238.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -39,11 +39,12 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# url_pdf: "https://psyarxiv.com/ahrgs/download/"
+url_source: "https://www.sciencedirect.com/science/article/pii/S1571064522000872"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S1571064522000872/pdfft"
 
 # links:
-# - name: Preprint
-#   url: https://psyarxiv.com/ahrgs/
+ - name: Original Paper
+   url: https://www.sciencedirect.com/science/article/pii/S1571064522000677
 
 projects:
 - teachingCoordination
