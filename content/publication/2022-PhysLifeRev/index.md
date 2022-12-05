@@ -42,7 +42,7 @@ featured: false
 url_source: "https://www.sciencedirect.com/science/article/pii/S1571064522000872"
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S1571064522000872/pdfft"
 
-# links:
+links:
  - name: Original Paper
    url: https://www.sciencedirect.com/science/article/pii/S1571064522000677
 
