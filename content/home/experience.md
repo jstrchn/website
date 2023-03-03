@@ -26,7 +26,8 @@ experience:
     company: University Medical Center Hamburg-Eppendorf
     company_url: 'https://www.uke.de/kliniken-institute/kliniken/neurologie/index.html'
     company_logo: uke
-    location: Hamburg, Germany
+    icon: ":de"
+    location: "Hamburg, Germany"
     date_start: '2023-03-01'
     date_end: ''
     description: Recipient of a research grant for experienced researchers awarded by the Alexander von Humboldt Foundation to study kinematics of pedagogical actions during demonstration
@@ -35,6 +36,7 @@ experience:
     company: Cognition, Motion, and Neuroscience Unit; Italian Institute of Technology
     company_url: 'https://www.iit.it/research/lines/cognition-motion-and-neuroscience'
     company_logo: iit
+    icon: ":it:"
     location: Genoa, Italy
     date_start: '2020-07-01'
     date_end: '2022-12-31'
@@ -44,7 +46,7 @@ experience:
     company: Social Mind and Body lab, Department of Cognitive Science, Central European University
     company_url: 'http://somby.ceu.edu/'
     company_logo: ceu
-    icon: 
+    icon: ":hungary"
     location: Budapest, Hungary
     date_start: '2016-11-01'
     date_end: '2020-06-30'
@@ -54,7 +56,7 @@ experience:
     company: Department of Psychology, University of York
     company_url: 'http://york.ac.uk/psychology'
     company_logo: uoy
-    icon: 
+    icon: ":uk"
     location: York, UK
     date_start: '2013-10-01'
     date_end: '2016-09-30'

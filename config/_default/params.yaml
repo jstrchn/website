@@ -22,12 +22,11 @@ twitter: ''
 
 email: james.wa.strachan@gmail.com
 address:
-  street: Fondazione Istituto Italiano di Tecnologia, via Enrico Melen 83
-  city: Genova
-  region: GE
-  postcode: '16152'
-  country: Italia
-  country_code: IT
+  street: Universitätsklinikum Hamburg-Eppendorf 
+  city: Hamburg
+  postcode: '20246'
+  country: Germany
+  country_code: DE
 contact_links:
   - icon: twitter
     icon_pack: fab

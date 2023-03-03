@@ -71,10 +71,7 @@ highlight_name: false
 ---
 I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
-I am currently a Visiting Scientist as the University Medical Center Hamburg-Eppendorf in Hamburg, Germany, where I am supported by a fellowship for experienced researchers from the [Alexander von Humboldt Foundation]{https://humboldt-foundation.de} investigating the kinematic signature of pedagogical intentions in teachers' demonstrations. 
-
-Before this I have worked as a Research Fellow on the Marie Curie COFUND Project [MINDED](https://minded-cofund.eu), at the [Italian Institute of Technology](http://iit.it) in Genoa, Italy, and as a Postdoctoral Researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu) in Budapest, Hungary. I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/emeritusfaculty/steventipper/), looking at incidental learning of trust from gaze cues.
-
+I am currently a Visiting Scientist as the University Medical Center Hamburg-Eppendorf in Hamburg, Germany, where I am supported by a fellowship for experienced researchers from the [Alexander von Humboldt Foundation](https://humboldt-foundation.de) investigating the kinematic signature of pedagogical intentions in teachers' demonstrations. 
 
 ---
 
