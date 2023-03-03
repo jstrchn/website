@@ -13,8 +13,8 @@ role: MINDED Fellow<br />*he/him* [:rainbow_flag:](https://www.glsen.org/sites/d
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Italian Institute of Technology
-  url: https://iit.it
+- name: University Medical Center Hamburg-Eppendorf
+  url: https://uke.de
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -69,9 +69,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a MINDED Researcher on the Marie Curie COFUND Project [MINDED](https://minded-cofund.eu), working at the [Italian Institute of Technology](http://iit.it) in Genoa, Italy. I work as part of the [Cognition, Motion, and Neuroscience Unit](https://www.iit.it/research/lines/cognition-motion-and-neuroscience) with Professor [Cristina Becchio](https://www.iit.it/it/people/cristina-becchio). I am currently working on understanding how teachers adjust their actions during live pedagogical interactions to effectively structure and communicate information, with a particular focus on the role of motor variability.
+I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
-Before joining IIT, I was a postdoctoral researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu) with Professors [Natalie Sebanz](http://somby.ceu.edu/people/natalie-sebanz) and [G&uuml;nther Knoblich](http://somby.ceu.edu/people/gunther-knoblich). I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/emeritusfaculty/steventipper/), looking at incidental learning of trust from gaze cues.
+I am currently a Visiting Scientist as the University Medical Center Hamburg-Eppendorf in Hamburg, Germany, where I am supported by a fellowship for experienced researchers from the [Alexander von Humboldt Foundation]{https://humboldt-foundation.de} investigating the kinematic signature of pedagogical intentions in teachers' demonstrations. 
+
+Before this I have worked as a Research Fellow on the Marie Curie COFUND Project [MINDED](https://minded-cofund.eu), at the [Italian Institute of Technology](http://iit.it) in Genoa, Italy, and as a Postdoctoral Researcher in the [Social Mind and Body lab](http://somby.ceu.edu) at the Central European University [Department of Cognitive Science](https://cognitivescience.ceu.edu) in Budapest, Hungary. I completed my PhD at the University of York under the supervision of [Professor Steve Tipper](https://www.york.ac.uk/psychology/staff/emeritusfaculty/steventipper/), looking at incidental learning of trust from gaze cues.
 
 
 ---
