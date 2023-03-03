@@ -26,7 +26,7 @@ experience:
     company: University Medical Center Hamburg-Eppendorf
     company_url: 'https://www.uke.de/kliniken-institute/kliniken/neurologie/index.html'
     company_logo: uke
-    location: Hamburg, Germany :de:
+    location: Hamburg, Germany
     date_start: '2023-03-01'
     date_end: ''
     description: Recipient of a research grant for experienced researchers awarded by the Alexander von Humboldt Foundation to study kinematics of pedagogical actions during demonstration
@@ -35,7 +35,7 @@ experience:
     company: Cognition, Motion, and Neuroscience Unit; Italian Institute of Technology
     company_url: 'https://www.iit.it/research/lines/cognition-motion-and-neuroscience'
     company_logo: iit
-    location: Genoa, Italy :it:
+    location: Genoa, Italy
     date_start: '2020-07-01'
     date_end: '2022-12-31'
     description: Postdoctoral research fellowship investigating movement-to-movement variability of upper limb kinematics in teaching interactions<br />[Institutional webpage (archived)](https://www.iit.it/it/people-details/-/people/james-strachan)<br />[MINDED Project](https://minded-cofund.eu/people/minded-fellows)
@@ -45,13 +45,13 @@ experience:
     company_url: 'http://somby.ceu.edu/'
     company_logo: ceu
     icon: 
-    location: Budapest, Hungary :hungary:
+    location: Budapest, Hungary
     date_start: '2016-11-01'
     date_end: '2020-06-30'
     description: Postdoctoral researcher studying coordination and communication in joint action<br />[Institutional webpage (archive)](https://somby.ceu.edu/james-strachan)
     
   - title: PhD Student
-    company: Department of Psychology, University of York :uk:
+    company: Department of Psychology, University of York
     company_url: 'http://york.ac.uk/psychology'
     company_logo: uoy
     icon: 
