@@ -1,6 +1,6 @@
 ---
-title: Understanding Teaching Interactions
-summary: How do people adapt their actions in order to teach?
+title: Cultural transmission of technical expertise
+summary: How do people acquire complex skills and techniques through social learning? 
 tags:
 - Teaching
 - Pedagogy
@@ -23,10 +23,8 @@ People are capable of highly skilled motor actions, from snowboarding and ballro
 
 ![Observational social learning](https://i.imgflip.com/2r2rjf.jpg)
 
-While there have been substantial advances in understanding how  such skilled actions are learned through social learning mechanisms, this literature has typically focussed only on the learner and how they imitate or emulate the actions of an observed model. Much less is known about the role of the model: in particular, how skilled actions are actively taught. 
+While there have been substantial advances in understanding how  such skilled actions are learned through social learning mechanisms, this literature has typically focussed only on the learner and how they imitate or emulate simple actions or action sequences of an observed model in one-off learning episodes. Simple actions learned over a short period of time are treated as a working laboratory model of complex real-world techniques that are learned and perfected over the course of many years.
 
-Many skilled actions are not actually learned individually or through purely observational learning, but through active engagement with more skilled models who are willing to tolerate students and, in some special cases, even eager to pass on knowledge. These teachers are skilled individuals who "produce behaviour with the intent to facilitate learning in another"[<sup>1</sup>](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/how-to-learn-about-teaching-an-evolutionary-framework-for-the-study-of-teaching-behavior-in-humans-and-other-animals/017C2C246E9C206562CAE3DB590B01EC), and through this behaviour learners can acquire skills they could not arrive at on their own, and they can do so quickly, with clear understanding of the expected outcomes, and with minimal risk.
+On the other hand, research from anthropology, cognitive science, sport psychology, and other fields indicate that expertise is much more than being able to produce a particular action or action sequence: experts are flexible, responding to environmental and situational contingencies fluidly and competently with clear understanding of the relevant dynamics, constraints, and limitations of their actions. True expertise, then, is more than merely a sequence of actions learned through blind copying and performed stereotypically, but a complex set of psychological, motor, and evaluative skills that impact the transmission, acquisition, and long-term evolution of techniques. 
 
-My research topic relates to how teachers and learners adapt their behaviour to achieve learning outcomes, and in particular how they do this in the context of live interactions, where issues of communication, coordination, and common ground can all raise opportunities - and challenges - for learning. Understanding the dynamics and mechanisms at play in these interactions has important implications for skill learning, motor cognition, and the cultural evolution of skills and techniques. 
-
-Currently, I am particularly interested in the use of trial-to-trial motor variability in teaching interactions, and the kinds of information this can be used to communicate to a learner. 
+This project approaches the question of cultural learning of techniques through the lens of interactivity, studying the intrinsic roles that coordination, communication, and joint action play in the innovation, propagation, and evolution of technical skills, with an emphasis on understanding how the dynamics and mechanisms at play in interactions can lead to complex traits such as expertise and the role that these play in human culture. 
