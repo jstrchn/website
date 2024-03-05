@@ -23,7 +23,7 @@ publishDate: "2023-07-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Perspectives on Psychological Science, Online First, 1-22
+publication: Perspectives on Psychological Science, 19(1), 201-222
 publication_short: Perspectives on Psychological Science
 
 abstract: The cultural transmission of technical know-how has proven vital to the success of our species. The broad diversity of learning contexts and social configurations, as well as the various kinds of coordinated interactions they involve, speaks to our capacity to flexibly adapt to and succeed in transmitting vital knowledge in various learning contexts. Although often recognized by ethnographers, the flexibility of cultural learning has so far received little attention in terms of cognitive mechanisms. We argue that a key feature of the flexibility of cultural learning is that both the models and learners recruit cognitive mechanisms of action coordination to modulate their behavior contingently on the behavior of their partner, generating a process of mutual adaptation supporting the successful transmission of technical skills in diverse and fluctuating learning environments. We propose that the study of cultural learning would benefit from the experimental methods, results, and insights of joint-action research and, complementarily, that the field of joint-action research could expand its scope by integrating a learning and cultural dimension. Bringing these two fields of research together promises to enrich our understanding of cultural learning, its contextual flexibility, and joint action coordination.
