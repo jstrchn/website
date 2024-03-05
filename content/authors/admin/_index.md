@@ -9,7 +9,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MINDED Fellow<br />*he/him* [:rainbow_flag:](https://www.glsen.org/sites/default/files/GLSEN%20Pronouns%20Resource.pdf "Why am I sharing my pronouns?")
+role: Humboldt Fellow<br />*he/him* [:rainbow_flag:](https://www.glsen.org/sites/default/files/GLSEN%20Pronouns%20Resource.pdf "Why am I sharing my pronouns?")
 
 # Organizations/Affiliations to show in About widget
 organizations:
