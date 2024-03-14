@@ -25,9 +25,9 @@ tags:
 # Is this a featured talk? (true/false)
 featured: true
 
-#url_pdf: "uploads/posters/Strachan-etal_TeaP2024_Poster.pdf"
+url_pdf: "uploads/posters/Strachan-etal_TeaP2024_Poster.pdf"
 
-stlinks:
+links:
 - name: Program
   url: https://conference-service.com/teap-2024-regensburg
 
