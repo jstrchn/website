@@ -20,10 +20,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#interests:
+#- Joint action
+#- Motor cognition
+#- Social learning
 
 # Education to show in About widget
 education:
@@ -49,12 +49,38 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jamesstrachan
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.hu/citations?user=2n8uGucAAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0002-8618-3834
+- icon: cv
+  icon_pack: ai
+  link: uploads/JStrachan_CV.pdf
+
+skills:
+- name: 
+  items:  
+  - name: Joint Action
+    icon: people-carry
+    icon_pack: fas
+    description: How do we coordinate our actions and share information with other people to achieve a joint goal?
+  - name: Motor cognition
+    icon: running
+    icon_pack: fas
+    description: How are higher order intentions and mental states encoded and read out from movement kinematics?
+- name:
+  items:
+  - name: Social learning
+    icon: graduation-cap
+    icon_pack: fas
+    description: How do we acquire new skills and techniques from observation of and interaction with the people around us?
+  - name: Artificial intelligence
+    icon: microchip
+    icon_pack: fas
+    description: How can applying principles from cognitive science to AI inform our understanding of machine and human psychology?
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
