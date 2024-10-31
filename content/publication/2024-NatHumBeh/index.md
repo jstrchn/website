@@ -31,8 +31,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In press at Nature Human Behaviour
-publication_short: in press at Nature Human Behaviour
+publication: Nature Human Behaviour. 8, 1285-1295
+publication_short: Nature Human Behaviour
 
 abstract: "At the core of what defines us as humans is the concept of theory of mind: the ability to track other people’s mental states. The recent development of large language models (LLMs) such as ChatGPT has led to intense debate about the possibility that these models exhibit behaviour that is indistinguishable from human behaviour in theory of mind tasks. Here we compare human and LLM performance on a comprehensive battery of measurements that aim to measure different theory of mind abilities, from understanding false beliefs to interpreting indirect requests and recognizing irony and faux pas. We tested two families of LLMs (GPT and LLaMA2) repeatedly against these measures and compared their performance with those from a sample of 1,907 human participants. Across the battery of theory of mind tests, we found that GPT-4 models performed at, or even sometimes above, human levels at identifying indirect requests, false beliefs and misdirection, but struggled with detecting faux pas. Faux pas, however, was the only test where LLaMA2 outperformed humans. Follow-up manipulations of the belief likelihood revealed that LLaMA2’s superiority was illusory, possibly reflecting a bias towards attributing ignorance. In contrast, GPT’s poor performance originated from a­ h­yp­erconservative approach towards committing to conclusions rather than from a genuine failure of inference. These findings not only demonstrate that LLMs exhibit behaviour that is consistent with the outputs of mentalistic inference in humans but also highlight the importance of systematic testing to ensure a non-superficial comparison between human and artificial intelligences."
 
@@ -49,11 +49,16 @@ featured: false
 
 # Custom links (uncomment lines below)
 url_source: "https://doi.org/10.1038/s41562-024-01882-z"
-#url_pdf: "https://"
+url_pdf: "https://www.nature.com/articles/s41562-024-01882-z.pdf"
 
 links:
 - name: Preprint
   url: https://doi.org/10.21203/rs.3.rs-3262385/
+- name: Code
+  url: https://osf.io/fwj6v/
+
+projects:
+- socialCognitionAI
 
 ---
 

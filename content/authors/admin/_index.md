@@ -97,7 +97,7 @@ highlight_name: false
 ---
 I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
-I am currently a Visiting Scientist as the University Medical Center Hamburg-Eppendorf in Hamburg, Germany, where I am supported by a fellowship for experienced researchers from the [Alexander von Humboldt Foundation](https://humboldt-foundation.de) investigating the kinematic signature of pedagogical intentions in teachers' demonstrations. 
+I am currently a postdoctoral researcher at the University Medical Center Hamburg-Eppendorf in Hamburg, Germany where I am working with [Prof. Dr. Cristina Becchio](https://www.uke.de/english/physicians-and-scientists/wissenschaftlerprofilseite_cristina_becchio.html) as part of the [ASTOUND Project](https://astound-project.eu) aimed at improving social competencies of virtual agents for human-AI interactions.
 
 ---
 

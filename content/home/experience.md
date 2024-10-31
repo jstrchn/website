@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral researcher
+    company: University Medical Center Hamburg-Eppendorf
+    company_url: 'https://www.uke.de/kliniken-institute/kliniken/neurologie/index.html'
+    company_logo: uke
+    icon: ":de"
+    location: "Hamburg, Germany"
+    date_start: '2024-08-01'
+    date_end: '2025-11-30'
+    description: Postdoctoral position on the EU-funded [ASTOUND Project](https://astound-project.eu) researching the social competencies of AI and ways to integrate cognitive psychological methods and theory with the development of virtual agents
+        
   - title: Humboldt Research Fellow 
     company: University Medical Center Hamburg-Eppendorf
     company_url: 'https://www.uke.de/kliniken-institute/kliniken/neurologie/index.html'
@@ -29,7 +39,7 @@ experience:
     icon: ":de"
     location: "Hamburg, Germany"
     date_start: '2023-03-01'
-    date_end: ''
+    date_end: '2024-07-31'
     description: Recipient of a research grant for experienced researchers awarded by the Alexander von Humboldt Foundation to study kinematics of pedagogical actions during demonstration
         
   - title: MINDED (MSCA-COFUND) Fellow
