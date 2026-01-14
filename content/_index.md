@@ -22,6 +22,133 @@ sections:
   - block: experience
     content:
       title: Experience
+      subtitle: |
+        <!-- Leaflet Map Embed -->
+        <div style="width: 100%; max-width: 300px;">
+          <div id="map-28906" style="width: 100%; height: 400px;"></div>
+        </div>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+        <style>
+          .marker-pin {
+            width: 30px;
+            height: 30px;
+            border-radius: 50% 50% 50% 0;
+            background: #FF9800;
+            position: absolute;
+            transform: rotate(-45deg);
+            left: 50%;
+            top: 50%;
+            margin: -15px 0 0 -15px;
+          }
+          .marker-pin::after {
+            content: "";
+            width: 14px;
+            height: 14px;
+            margin: 8px 0 0 8px;
+            background: #fff;
+            position: absolute;
+            border-radius: 50%;
+          }
+          .custom-div-icon {
+            position: relative;
+          }
+          .map-corner-logo {
+            position: absolute;
+            bottom: 2px;
+            right: 2px;
+            background-color: rgba(255, 255, 255, 0.6);
+            padding: 1px;
+            font-size: 10px;
+            border-radius: 2px;
+            z-index: 400;
+          }
+          .map-corner-logo a {
+            color: #999;
+            text-decoration: none;
+          }
+        </style>
+
+        <script>
+          // Initialize map when page loads
+          window.onload = function() {
+            // Create modern marker icon
+            var customIcon = L.divIcon({
+              className: "custom-div-icon",
+              html: '<div class="marker-pin"></div>',
+              iconSize: [30, 42],
+              iconAnchor: [15, 42]
+            });
+
+            // Create map
+            var map = L.map("map-28906", {
+              zoomControl: true
+            }).setView([0, 0], 4);
+
+            // Define base layers
+            var baseLayers = {};
+            
+            baseLayers["Light Mode"] = L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+              attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+            });
+            baseLayers["Dark Mode"] = L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+              attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+            });
+
+            // Add default layer to map
+            baseLayers["Light Mode"].addTo(map);
+
+            // Add layer control
+            L.control.layers(baseLayers).addTo(map);
+
+            // Add corner logo
+            var cornerLogoDiv = document.createElement("div");
+            cornerLogoDiv.className = "map-corner-logo";
+            cornerLogoDiv.innerHTML = '<a href="https://mapscaping.com/?ref=tool" target="_blank">Map</a>';
+
+            var cornerLogo = L.Control.extend({
+              options: { position: "bottomright" },
+              onAdd: function() { return cornerLogoDiv; }
+            });
+            new cornerLogo().addTo(map);
+
+            // Add markers
+            var markerList = [
+              {
+                position: [33.971588, -6.849813],
+                title: "Université Mohamed VI Polytechnique<br /><b>Rabat</b>"
+              },
+              {
+                position: [53.957741, -1.08226],
+                title: "University of York<br /><b>York</b>"
+              },
+              {
+                position: [47.497913, 19.040236],
+                title: "Central European University<br /><b>Budapest</b>"
+              },
+              {
+                position: [44.405651, 8.946256],
+                title: "Italian Institute of Technology<br /><b>Genoa</b>"
+              },
+              {
+                position: [53.551086, 9.993682],
+                title: "Universitätsklinikum Hamburg-Eppendorf<br /><b>Hamburg</b>"
+              }
+            ];
+
+            // Add individual markers
+            markerList.forEach(function(item) {
+              var marker = L.marker(item.position, { icon: customIcon }).addTo(map);
+              marker.bindPopup(item.title);
+            });
+
+            // Set view to show all markers
+            var bounds = L.latLngBounds(markerList.map(function(item) { return item.position; }));
+            map.fitBounds(bounds, { padding: [50, 50] });
+          };
+        </script>
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
