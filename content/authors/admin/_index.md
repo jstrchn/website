@@ -9,12 +9,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Humboldt Fellow<br />*he/him* [:rainbow_flag:](https://www.glsen.org/sites/default/files/GLSEN%20Pronouns%20Resource.pdf "Why am I sharing my pronouns?")
+role: Researcher<br />[*he/him*](https://www.glsen.org/sites/default/files/GLSEN%20Pronouns%20Resource.pdf "Why am I sharing my pronouns?")
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University Medical Center Hamburg-Eppendorf
-  url: https://uke.de
+- name: Université Mohamed VI Polytechnique
+  url: https://um6p.ma 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,12 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:james.wa.strachan@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jamesstrachan
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.hu/citations?user=2n8uGucAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.co.uk/citations?user=2n8uGucAAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: fab
   link: http://orcid.org/0000-0002-8618-3834
@@ -97,7 +94,7 @@ highlight_name: false
 ---
 I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
-I am currently a postdoctoral researcher at the University Medical Center Hamburg-Eppendorf in Hamburg, Germany where I am working with [Prof. Dr. Cristina Becchio](https://www.uke.de/english/physicians-and-scientists/wissenschaftlerprofilseite_cristina_becchio.html) as part of the [ASTOUND Project](https://astound-project.eu) aimed at improving social competencies of virtual agents for human-AI interactions.
+I am currently a postdoctoral researcher at the [Faculty of Governance, Economics, and Social Sciences (FGSES)](https://fgses-um6p.ma) at Université Mohamed VI Polytechnique where I am working on topics relating to social learning and cultural evolution. I also teach *Experimental Methods: Design and Data Collection* on the second year undergraduate programme in Behavioural Sciences for Public Policy.
 
 ---
 

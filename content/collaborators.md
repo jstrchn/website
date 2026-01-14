@@ -12,13 +12,11 @@ header:
   image: ""
 ---
 
-Current Advisor:
-
-:de: [Cristina Becchio (UKE)](https://www.uke.de/english/physicians-and-scientists/wissenschaftlerprofilseite_cristina_becchio.html)
-
 Academic collaborators:
 
 :it: [Dalila Albergo (IIT)](https://www.iit.it/web/guest/people/-/people/dalila-albergo)
+
+:de: [Cristina Becchio (UKE)](https://www.uke.de/english/physicians-and-scientists/wissenschaftlerprofilseite_cristina_becchio.html)
 
 :it: [Giulia Borghini (IIT)](https://www.iit.it/people-details/-/people/giulia-borghini)
 

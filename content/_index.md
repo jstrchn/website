@@ -31,15 +31,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Humboldt Research Fellow
+        - title: Postdoctoral Researcher
+          company: Université Mohamed VI Polytechnique
+          company_url: 'https://um6p.ma'
+          company_logo: um6p
+          location: Rabat, Morocco
+          date_start: '2026-01-05'
+          date_end: ''
+          description: |2-
+              Researcher on social learning and cultural evolution. In this role, I also teach the *Experimental Psychology: Design and Data Collection* 2nd year undergraduate module
+        - title: Humboldt Research Fellow / Postdoc
           company: University Medical Center Hamburg-Eppendorf
           company_url: 'https://uke.de'
           company_logo: uke
           location: Hamburg, Germany
           date_start: '2023-03-01'
-          date_end: ''
+          date_end: '2025-11-30'
           description: |2-
-              Recipient of a research grant for experienced researchers awarded by the Alexander von Humboldt Foundation to study kinematics of pedagogical actions during demonstration
+              Recipient of a research grant for experienced researchers awarded by the Alexander von Humboldt Foundation to study kinematics of pedagogical actions during demonstration. I then transitioned to a postdoctoral position on the EU-funded [ASTOUND Project](https://astound-project.eu) researching the social competencies of AI and ways to integrate cognitive psychological methods and theory with the development of virtual agents
+
+              [Lab webpage ](https://cmon-uke.github.io/website)
         - title: MINDED (MSCA-COFUND) Fellow
           company: Cognition, Motion, and Neuroscience Unit, Italian Institute of Technology
           company_url: 'https://www.iit.it/research/lines/cognition-motion-and-neuroscience'
@@ -135,20 +146,16 @@ sections:
       text: 
       email: james.wa.strachan@gmail.com
       address:
-        street: Universitätsklinikum Hamburg-Eppendorf, Martinistraße 52
-        city: Hamburg
+        street: Université Mohamed VI Polytechnique, Rocade Rabat-Salé
+        city: Rabat
         region: 
-        postcode: '20246'
-        country: Germany
-        country_code: DE
+        postcode: '11103'
+        country: Morocco
+        country_code: MA
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: '@jamesstrachan'
-          link: 'https://twitter.com/jamesstrachan'
         - icon: bluesky
           icon_pack: fab
-          name: 'Bluesky: @jwastrachan.bsky.social'
+          name: '@jwastrachan.bsky.social'
           link: 'https://bsky.app/profile/jwastrachan.bsky.social'
     design:
       columns: '2'
