@@ -36,7 +36,7 @@ sections:
             width: 30px;
             height: 30px;
             border-radius: 50% 50% 50% 0;
-            background: #FF9800;
+            background: #1565c0;
             position: absolute;
             transform: rotate(-45deg);
             left: 50%;
