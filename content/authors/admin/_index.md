@@ -94,7 +94,7 @@ highlight_name: false
 ---
 I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
-I am currently a postdoctoral researcher at the [Faculty of Governance, Economics, and Social Sciences (FGSES)](https://fgses-um6p.ma) at Université Mohamed VI Polytechnique where I am working on topics relating to social learning and cultural evolution. I also teach *Experimental Methods: Design and Data Collection* on the second year undergraduate programme in Behavioural Sciences for Public Policy.
+I am currently a postdoctoral researcher at the [Africa Institute for Research in Economics and Social Sciences](https://airess.fgses-um6p.ma) in the Faculty of Governance, Economic & Social Sciences at Université Mohamed VI Polytechnique, where I am working on topics relating to social learning and cultural evolution. I also teach *Experimental Methods: Design and Data Collection* on the second year undergraduate programme in Behavioural Sciences for Public Policy.
 
 ---
 
