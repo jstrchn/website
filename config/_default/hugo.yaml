@@ -21,7 +21,8 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  paperSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -37,7 +38,10 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  jpeg:
+    quality: 75
+  png: 
+    quality: 75
   anchor: smart
 timeout: 600000
 taxonomies:

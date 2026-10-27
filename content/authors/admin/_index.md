@@ -89,8 +89,6 @@ skills:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 ---
 I am an experimental cognitive scientist studying the links between joint action, communication, and learning. In particular, I am interested in how people acquire skills and technical know-how through social interactions with other people; how people use their existing skills and knowledge about the task and other people to encode and readout relevant information from instrumental movements, and the long-term consequences for this communication both at the individual level (e.g. how does online communication with a teacher affect what and how a student learns the skill?) and population level (how does the information change as it passes from person to person?)
 
